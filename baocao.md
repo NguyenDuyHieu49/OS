@@ -1,9 +1,10 @@
 # Code thử nghiệm cho Chapter 49
 
 ## 49.1. A Basic Distributed File System
-![Chạy thử nghiệm](/49.1run.png)
-![Mô tả block](/49.1block.png)
-![Code mô phỏng](/49.1code.png)
+![Chạy thử nghiệm](/49.1run.png).
+![Mô tả block](/49.1block.png).
+![Code mô phỏng](/49.1code.png).
+> Mô tả: 
 **Mô phỏng:** RPC đơn giản để client gửi yêu cầu đọc block từ file ở server.
 **Chi tiết:**
   - Server có `server_data.txt`.
